@@ -1,6 +1,13 @@
 # Bezier Curve
+This project is a Java Maven application built using NetBeans IDE and Swing that generates and visualizes **Bezier Curves** of different orders. Users can interact with the graphical interface to define control points and adjust the curve's resolution and order. The application supports saving and loading curve points from `.txt` file, along with various interactive features.
 
-This project is a Java Swing application that generates and visualizes **Bezier Curves** of different orders. Users can interact with the graphical interface to define control points and adjust the curve's resolution and order. The application supports saving and loading curve points from `.txt` file, along with various interactive features.
+<p align="center">
+  <img src="tests/Example1.png" width="350" alt="Example 1">
+</p>
+
+<p align="center">
+  <img src="tests/Example2.png" width="350" alt="Example 2">
+</p>
 
 ## **Features**
 
