@@ -9,6 +9,10 @@ This project is a Java Maven application built using NetBeans IDE and Swing that
   <img src="tests/Example2.png" width="350" alt="Example 2">
 </p>
 
+<p align="center">
+  <img src="tests/Example3.png" width="350" alt="Example 3">
+</p>
+
 ## **Features**
 
 - **Define Control Points**: Click to set the start and end points of the curve.
