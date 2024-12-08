@@ -28,7 +28,7 @@ This project is a Java Maven application built using NetBeans IDE and Swing that
 ### **Controls**
 
 - **Mouse Click**:
-  - *`*Left Button`**: Define the start or end point.
+  - **`Left Button`**: Define the start or end point.
   - **`Drag`**: Move existing points.
 
 - **Keyboard Keys**:
